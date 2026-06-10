@@ -30,7 +30,7 @@ on its mbox `From ` line — counts are not prorated across a volume.
   cached under `./cache/`, so the script can be interrupted and re-run: it
   skips anything already on disk and only fetches what's left.
 - **[`plot_posts.R`](plot_posts.R)** — reads the CSV and renders
-  [`posts_by_month.png`](posts_by_month.png), a faceted plot of posts/month per
+  [`posts_by_month.pdf`](posts_by_month.pdf), a faceted plot of posts/month per
   list (missing months filled with 0).
 
 ## Acknowledgement
